@@ -2432,4 +2432,4 @@ Noida
 #### Name: [mohammed fazil kp](https://github.com/fazilkp7)
 - Place: Kerala, India
 - Bio: Web developer Python and Django
-- Github: [mfazilkp7](https://github.com/fazilkp7)
+- Github: [fazilkp7](https://github.com/fazilkp7)
