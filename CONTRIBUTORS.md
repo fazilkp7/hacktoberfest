@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [mohammed fazil kp](https://github.com/fazilkp7)
+- Place: Kerala, India
+- Bio: Web developer Python and Django
+- Github: [mfazilkp7](https://github.com/fazilkp7)
